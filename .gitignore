@@ -1,0 +1,18 @@
+# 个人隐私 / 本地运行数据（不要提交）
+.workbuddy/
+config.json
+logs/
+录屏/
+截图/
+__pycache__/
+*.pyc
+
+# 本机临时文件
+启动错误.log
+_ui_*.png
+_f_*.png
+_t_*.py
+界面预览.png
+
+# 原始压缩包（已解压，不需要提交）
+vendor/scrcpy-win64.zip
